@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://neizwest777.github.io/veetrassi-ehitus/sitemap.xml
